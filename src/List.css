@@ -1,0 +1,12 @@
+.pointer {
+  cursor: pointer;
+}
+.list-group-item {
+  margin-bottom: 5px;
+}
+.badge-success {
+  background-color: #4CAF50;
+}
+.badge-remove {
+  background-color: #F44336;
+}
